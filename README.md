@@ -21,9 +21,3 @@
 
 ```javascript
 const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"];
-
-```
-
-### Contribution Snake
-
-<p align="center"> <img src="https://github.com/AkshatRai3/AkshatRai3/blob/output/github-contribution-grid-snake.svg" /> </p>
