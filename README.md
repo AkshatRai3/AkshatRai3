@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Rai</h1>
+<h1 align="center">Namaste 🙏🏻 , I'm Akshat Rai</h1>
 <h3 align="center">Web Developer | MERN Stack | Future GSoC Contributor | AI/ML Enthusiast</h3>
 
 <p align="center">
