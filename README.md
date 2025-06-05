@@ -14,6 +14,7 @@
 - 💬 Ask me about **React, Node, MongoDB, Express, EJS**
 - 📫 Reach me at **[raiakshat0003@gmail.com](mailto:raiakshat0003@gmail.com)**  
 - ⚡ Fun fact: I Develope more than I sleep 😅
+- 🌐 Displayed myself on https://akshatrai.vercel.app/
 
 ---
 
