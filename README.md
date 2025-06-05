@@ -23,3 +23,17 @@
 const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"];
 ```
 
+### 💫 Beyond Code – My Creative Side
+
+- 🥋 **Bronze Medalist**, Amar Ujala All India Karate Championship  
+- 🎨 Passionate Painter – I love capturing imagination on canvas  
+- 💃 Skilled Dancer – Expressive & energetic on stage  
+- 🧑‍🎓 **Mr. Fresher**, IIT Jammu (2024)  
+- 👑 **Mr. Anhad**, crowned during IIT Jammu’s cultural fest *Anhad*
+
+### Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkshatRai3&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRai3&theme=tokyonight" width="48%" /> </p>
+
+### Let's Connect
+
+<p align="center"> <a href="https://www.linkedin.com/in/akshatrai3"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:raiakshat0003@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a> <a href="https://github.com/AkshatRai3"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a> </p>
