@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | MERN Stack | Future GSoC Contributor | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Dancer;Artist&center=true&width=500&height=45">
 </p>
 
 ---
