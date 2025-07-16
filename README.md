@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏🏻 , I'm Akshat Rai</h1>
-<h3 align="center">Web Developer | MERN Stack | Future GSoC Contributor | AI/ML Enthusiast</h3>
+<h3 align="center">Web Developer | MERN Stack | Future GSoC Contributor </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Dancer;Artist&center=true&width=500&height=45">
@@ -10,10 +10,9 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 Learning **AI/ML** for **GSoC 2026**
 - 💬 Ask me about **React, Node, MongoDB, Express, EJS**
 - 📫 Reach me at **[raiakshat0003@gmail.com](mailto:raiakshat0003@gmail.com)**  
-- ⚡ Fun fact: I Develope more than I sleep 😅
+- ⚡ Fun fact: I Develop more than I sleep 😅
 - 🌐 Displayed myself on https://akshatrai.vercel.app/
 
 ---
